@@ -1,6 +1,6 @@
 # 📌 MACHINE LEARNING PROJECTS
 
-Bu proje, **makine öğrenmesi algoritmalarını** ve **veri analiz tekniklerini** içeren bir çalışma koleksiyonudur. Projede regresyon, sınıflandırma, kümeleme ve model değerlendirme gibi farklı makine öğrenmesi yaklaşımlarını içeren Jupyter Notebook dosyaları bulunmaktadır. Ayrıca, özel projeler bölümünde **COVID-19 verileri** ve **su kalitesi analizi** üzerine çalışmalar da yapılmıştır.
+Bu proje, **makine öğrenmesi algoritmalarını** ve **veri analiz tekniklerini** öğrendiğim süreçte yaptığım çalışmaları içeren koleksiyonudur. Projede regresyon, sınıflandırma, kümeleme ve model değerlendirme gibi farklı makine öğrenmesi yaklaşımlarını içeren Jupyter Notebook dosyaları bulunmaktadır. Ayrıca, özel projeler bölümünde **COVID-19 verileri** ve **su kalitesi analizi** üzerine çalışmalar da yapılmıştır.
 
 ## 📂 Proje İçeriği
 
